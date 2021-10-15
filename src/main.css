@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .brand_look span{
@@ -20,12 +20,32 @@
 }
 
 .brand_look span h1{
-    font-family: 'Abril face', cursive;
+    font-family: sans-serif;
 
+}
+
+.stickyfooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.26);
+    position: sticky;
+    bottom: 0px;
+}
+
+.stickyfooter a{
+    color: white;
+}
+
+.greenbtn{
+    background-color: rgb(38,128,52);
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .brand_logo{
     width: 150px;
+
 }
 
 .brand_look img{
