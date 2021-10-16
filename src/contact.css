@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background:linear-gradient(to right bottom, rgb(96, 96, 240), lightcoral);
+    background:lightgreen;
     min-height: 100vh;
     flex-direction: column;
     overflow: hidden;
