@@ -9,17 +9,14 @@
 }
 
 .northwalacontact{
-    text-align: center;
     height: 400px;
-    width: 390px;
+    width: 75vw;
     font-size: 14px;
     display: flex;
-    align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
     border-radius: 10px;
-    color: white;
-    background: linear-gradient(to top right, rgb(250, 137, 85), rgb(75, 116, 228));
+    color: rgb(0, 0, 0);
 }
 
 .northwalacontact a{
