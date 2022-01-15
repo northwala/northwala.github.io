@@ -10,7 +10,7 @@
 
 .northwalacontact{
     height: 400px;
-    min-width: 100vw;
+    padding:20px;
     font-size: 14px;
     display: flex;
     flex-direction: column;
